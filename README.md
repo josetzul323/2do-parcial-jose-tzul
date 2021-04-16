@@ -1,0 +1,3 @@
+# 2do-parcial-jose-tzul
+este es mi 2 do parcial de progra
+este es mi archivo readme de mi parcial...
